@@ -14,7 +14,7 @@
 
         const songs = [
             { 
-                src: "mus/Cavetown - My Love Mine All Mine (Mitski Cover).mp3", 
+                src: "Cavetown - My Love Mine All Mine (Mitski Cover).mp3", 
                 startTime: 35,
                 lyrics: [
                     { time: 35, text: "So when I die, which I must do" },
@@ -33,7 +33,7 @@
                 images: ["img/img1.jpg", "img/img2.jpg", "img/img3.jpg", "img/img4.jpg", "img/img5.jpg"]
             },
             { 
-                src: "mus/Айскрин - Между нами километры.mp3", 
+                src: "Айскрин - Между нами километры.mp3", 
                 startTime: 15,
                 lyrics: [
                     { time: 15, text: "Забей на километры и сколько бы их не было" },
